@@ -1,8 +1,8 @@
 ---
 name: پیشنهاده ارائه
 about: اگر قصد دارید در رویداد ارائه بدید این فرم رو پر کنید.
-title: 'جشن روز آزادی نرم‌افزار'
-labels: 'ارائه'
+title: 'ارائه: عنوان ارائه'
+labels: 'presentation'
 assignees: 'mirs0bhan'
 
 ---
