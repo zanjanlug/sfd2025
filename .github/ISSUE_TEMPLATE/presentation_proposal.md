@@ -2,8 +2,8 @@
 name: پیشنهاده ارائه
 about: اگر قصد دارید در رویداد ارائه بدید این فرم رو پر کنید.
 title: 'جشن روز آزادی نرم‌افزار'
-labels: ''
-assignees: ''
+labels: 'ارائه'
+assignees: 'mirs0bhan'
 
 ---
 
