@@ -3,7 +3,7 @@ name: پیشنهاده‌ی ارائه
 about: اگر قصد دارید در رویداد ارائه بدید این فرم رو پر کنید.
 title: 'ارائه: عنوان ارائه'
 labels: 'presentation'
-assignees: 'mirs0bhan'
+assignees: 'mirs0bhan,ekm507'
 
 ---
 
